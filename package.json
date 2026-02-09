@@ -37,27 +37,27 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/ndarray-base-nullary-strided1d-dispatch": "github:stdlib-js/ndarray-base-nullary-strided1d-dispatch#main",
+    "@stdlib/ndarray-base-nullary-strided1d-dispatch": "^0.1.1",
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
-    "@stdlib/array-dtypes": "^0.3.0",
-    "@stdlib/blas-ext-base-ndarray-dsorthp": "github:stdlib-js/blas-ext-base-ndarray-dsorthp#main",
-    "@stdlib/blas-ext-base-ndarray-gsorthp": "github:stdlib-js/blas-ext-base-ndarray-gsorthp#main",
-    "@stdlib/blas-ext-base-ndarray-ssorthp": "github:stdlib-js/blas-ext-base-ndarray-ssorthp#main",
-    "@stdlib/math-base-assert-is-nan": "^0.2.2",
-    "@stdlib/math-base-special-pow": "^0.3.0",
-    "@stdlib/ndarray-base-ctor": "^0.2.2",
-    "@stdlib/ndarray-ctor": "^0.2.2",
-    "@stdlib/ndarray-dtypes": "^0.3.0",
-    "@stdlib/ndarray-from-scalar": "^0.2.1",
-    "@stdlib/ndarray-to-array": "^0.2.1",
-    "@stdlib/random-array-discrete-uniform": "^0.2.1",
-    "@stdlib/random-array-uniform": "^0.2.1",
+    "@stdlib/array-dtypes": "^0.4.1",
+    "@stdlib/blas-ext-base-ndarray-dsorthp": "^0.1.1",
+    "@stdlib/blas-ext-base-ndarray-gsorthp": "^0.1.1",
+    "@stdlib/blas-ext-base-ndarray-ssorthp": "^0.1.1",
+    "@stdlib/math-base-assert-is-nan": "^0.2.3",
+    "@stdlib/math-base-special-pow": "^0.3.1",
+    "@stdlib/ndarray-base-ctor": "^0.3.1",
+    "@stdlib/ndarray-ctor": "^0.3.1",
+    "@stdlib/ndarray-dtypes": "^0.4.1",
+    "@stdlib/ndarray-from-scalar": "^0.3.1",
+    "@stdlib/ndarray-to-array": "^0.2.2",
+    "@stdlib/random-array-discrete-uniform": "^0.2.2",
+    "@stdlib/random-array-uniform": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
