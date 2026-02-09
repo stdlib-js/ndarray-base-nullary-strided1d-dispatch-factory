@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/ndarray-base-nullary-strided1d-dispatch": "^0.1.1",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-dtypes": "^0.4.1",
